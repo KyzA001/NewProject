@@ -73,3 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Saved/
+Intermediate/
+Config/
+Content/
+Platforms/
+*.uproject
